@@ -1,0 +1,3347 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-01-20T09:32:41Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/123269001",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8287005,
+              -1.2888885
+            ],
+            [
+              36.8286138,
+              -1.2889295
+            ],
+            [
+              36.8285896,
+              -1.2889027
+            ],
+            [
+              36.8285118,
+              -1.2889429
+            ],
+            [
+              36.8285199,
+              -1.2889697
+            ],
+            [
+              36.8284367,
+              -1.2890153
+            ],
+            [
+              36.8284904,
+              -1.2891226
+            ],
+            [
+              36.8287586,
+              -1.2889939
+            ],
+            [
+              36.8287005,
+              -1.2888885
+            ]
+          ]
+        ]
+      },
+      "id": "way/123269001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/125299163",
+        "addr:city": "Nairobi",
+        "addr:street": "Temple Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "operator": "NCC",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.828377,
+              -1.2863475
+            ],
+            [
+              36.8287775,
+              -1.2871624
+            ],
+            [
+              36.8292053,
+              -1.2869523
+            ],
+            [
+              36.8288048,
+              -1.2861374
+            ],
+            [
+              36.828377,
+              -1.2863475
+            ]
+          ]
+        ]
+      },
+      "id": "way/125299163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/125301881",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Muthurwa Bus Station",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8333653,
+              -1.2872553
+            ],
+            [
+              36.8330059,
+              -1.2878506
+            ],
+            [
+              36.8340335,
+              -1.2885684
+            ],
+            [
+              36.8344841,
+              -1.2886167
+            ],
+            [
+              36.8345955,
+              -1.2884352
+            ],
+            [
+              36.8347898,
+              -1.288134
+            ],
+            [
+              36.8333868,
+              -1.2872124
+            ],
+            [
+              36.8333653,
+              -1.2872553
+            ]
+          ]
+        ]
+      },
+      "id": "way/125301881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/241570344",
+        "addr:city": "Nairobi",
+        "addr:street": "Murang'a Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "check_date": "2023-05-11",
+        "name": "Ngara Bus Terminus",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8235847,
+              -1.2739519
+            ],
+            [
+              36.823461,
+              -1.2741072
+            ],
+            [
+              36.8234104,
+              -1.2741376
+            ],
+            [
+              36.8233868,
+              -1.2742659
+            ],
+            [
+              36.8233823,
+              -1.2743093
+            ],
+            [
+              36.8232983,
+              -1.27512
+            ],
+            [
+              36.8233393,
+              -1.2751609
+            ],
+            [
+              36.8239381,
+              -1.274664
+            ],
+            [
+              36.8239425,
+              -1.2746539
+            ],
+            [
+              36.8239984,
+              -1.2745268
+            ],
+            [
+              36.824142,
+              -1.2742671
+            ],
+            [
+              36.8238053,
+              -1.2740867
+            ],
+            [
+              36.8235847,
+              -1.2739519
+            ]
+          ]
+        ]
+      },
+      "id": "way/241570344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/332128885",
+        "amenity": "bus_station",
+        "name": "Kitengela"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.9578089,
+              -1.4769989
+            ],
+            [
+              36.9574069,
+              -1.477341
+            ],
+            [
+              36.9579665,
+              -1.4772507
+            ],
+            [
+              36.95803,
+              -1.4773007
+            ],
+            [
+              36.9579646,
+              -1.4776429
+            ],
+            [
+              36.9580512,
+              -1.4776621
+            ],
+            [
+              36.9582454,
+              -1.4770238
+            ],
+            [
+              36.9580973,
+              -1.4769796
+            ],
+            [
+              36.9580573,
+              -1.4770715
+            ],
+            [
+              36.9578089,
+              -1.4769989
+            ]
+          ]
+        ]
+      },
+      "id": "way/332128885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/353675252",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Kitengela Bus Stage",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.9598919,
+              -1.4700571
+            ],
+            [
+              36.9595808,
+              -1.4712368
+            ],
+            [
+              36.9599073,
+              -1.4713477
+            ],
+            [
+              36.9603438,
+              -1.4699826
+            ],
+            [
+              36.9599845,
+              -1.4698175
+            ],
+            [
+              36.9599348,
+              -1.4699498
+            ],
+            [
+              36.9598919,
+              -1.4700571
+            ]
+          ]
+        ]
+      },
+      "id": "way/353675252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/422390837",
+        "addr:city": "Banana",
+        "addr:street": "Limuru Road",
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Banana Terminus",
+        "public_transport": "platform",
+        "ref": "0110BAA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7583939,
+              -1.173499
+            ],
+            [
+              36.7584061,
+              -1.1735338
+            ],
+            [
+              36.7584191,
+              -1.1735706
+            ],
+            [
+              36.7584353,
+              -1.1736166
+            ],
+            [
+              36.7584572,
+              -1.1736786
+            ],
+            [
+              36.7584836,
+              -1.1737535
+            ],
+            [
+              36.7585073,
+              -1.173821
+            ],
+            [
+              36.758531,
+              -1.1738882
+            ],
+            [
+              36.7585518,
+              -1.173947
+            ],
+            [
+              36.7585731,
+              -1.1740075
+            ],
+            [
+              36.7586357,
+              -1.1741851
+            ],
+            [
+              36.7586625,
+              -1.1742611
+            ],
+            [
+              36.7586828,
+              -1.1743187
+            ],
+            [
+              36.7586987,
+              -1.174364
+            ],
+            [
+              36.7587093,
+              -1.1743941
+            ],
+            [
+              36.7588544,
+              -1.1743429
+            ],
+            [
+              36.7588289,
+              -1.1742705
+            ],
+            [
+              36.7588019,
+              -1.1741941
+            ],
+            [
+              36.7587753,
+              -1.1741184
+            ],
+            [
+              36.7587461,
+              -1.1740356
+            ],
+            [
+              36.7586926,
+              -1.1738837
+            ],
+            [
+              36.7586688,
+              -1.1738164
+            ],
+            [
+              36.7586535,
+              -1.1737728
+            ],
+            [
+              36.7586147,
+              -1.1736629
+            ],
+            [
+              36.7585832,
+              -1.1735735
+            ],
+            [
+              36.7585625,
+              -1.1735147
+            ],
+            [
+              36.758539,
+              -1.1734479
+            ],
+            [
+              36.7584556,
+              -1.1734773
+            ],
+            [
+              36.7583939,
+              -1.173499
+            ]
+          ]
+        ]
+      },
+      "id": "way/422390837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/551697193",
+        "amenity": "bus_station",
+        "name": "Kiambu Bus Stage"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8266,
+              -1.1690324
+            ],
+            [
+              36.8263468,
+              -1.1686725
+            ],
+            [
+              36.8262343,
+              -1.1684994
+            ],
+            [
+              36.8259925,
+              -1.1686916
+            ],
+            [
+              36.8263149,
+              -1.1692276
+            ],
+            [
+              36.8266,
+              -1.1690324
+            ]
+          ]
+        ]
+      },
+      "id": "way/551697193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/644858100",
+        "addr:city": "Kiambu",
+        "addr:street": "Kiambu Road",
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Limuru Town Terminal",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.6420817,
+              -1.1080168
+            ],
+            [
+              36.6422043,
+              -1.1084263
+            ],
+            [
+              36.6423974,
+              -1.108622
+            ],
+            [
+              36.6426661,
+              -1.1086976
+            ],
+            [
+              36.6430026,
+              -1.1085489
+            ],
+            [
+              36.6431253,
+              -1.1085489
+            ],
+            [
+              36.6433235,
+              -1.1085228
+            ],
+            [
+              36.6436992,
+              -1.1086846
+            ],
+            [
+              36.6438766,
+              -1.1074456
+            ],
+            [
+              36.6435114,
+              -1.1074951
+            ],
+            [
+              36.6428893,
+              -1.1074926
+            ],
+            [
+              36.6420817,
+              -1.1080168
+            ]
+          ]
+        ]
+      },
+      "id": "way/644858100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/671167383",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Ngong matatu terminus",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.6559969,
+              -1.360642
+            ],
+            [
+              36.6567527,
+              -1.3608146
+            ],
+            [
+              36.6568903,
+              -1.3601966
+            ],
+            [
+              36.6561884,
+              -1.3599927
+            ],
+            [
+              36.6559969,
+              -1.360642
+            ]
+          ]
+        ]
+      },
+      "id": "way/671167383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/858959636",
+        "amenity": "bus_station",
+        "check_date": "2023-05-11",
+        "condition": "fair",
+        "fee": "no",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1590483360103.jpg",
+        "name": "Olympic Terminus",
+        "operational_status": "operational",
+        "operational_status:availability": "always",
+        "operator:funding": "government"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7773879,
+              -1.312868
+            ],
+            [
+              36.7775045,
+              -1.3129605
+            ],
+            [
+              36.7777835,
+              -1.3126494
+            ],
+            [
+              36.7779002,
+              -1.3126709
+            ],
+            [
+              36.7779766,
+              -1.3125703
+            ],
+            [
+              36.7778733,
+              -1.3125449
+            ],
+            [
+              36.7775287,
+              -1.3125489
+            ],
+            [
+              36.7774683,
+              -1.3125904
+            ],
+            [
+              36.7773986,
+              -1.3127674
+            ],
+            [
+              36.7773879,
+              -1.312868
+            ]
+          ]
+        ]
+      },
+      "id": "way/858959636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1152598231",
+        "addr:city": "Nairobi",
+        "amenity": "bus_station",
+        "building": "detached",
+        "bus": "yes",
+        "internet_access": "no",
+        "name": "bypass bus station",
+        "operator": "independent",
+        "public_transport": "station",
+        "tram": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.9827018,
+              -1.2647303
+            ],
+            [
+              36.9830534,
+              -1.2643198
+            ],
+            [
+              36.9833482,
+              -1.2643706
+            ],
+            [
+              36.9833705,
+              -1.2643177
+            ],
+            [
+              36.9829843,
+              -1.2642405
+            ],
+            [
+              36.9826774,
+              -1.2647018
+            ],
+            [
+              36.9827018,
+              -1.2647303
+            ]
+          ]
+        ]
+      },
+      "id": "way/1152598231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1038219160",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Stage 29/30",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8671321,
+          -1.2523304
+        ]
+      },
+      "id": "node/1038219160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1038219188",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Stage 30",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8667171,
+          -1.2548113
+        ]
+      },
+      "id": "node/1038219188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1038219189",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Stage 24",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8740267,
+          -1.2505269
+        ]
+      },
+      "id": "node/1038219189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1507544234",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Ambassador Bus Stage",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8258768,
+          -1.2854623
+        ]
+      },
+      "id": "node/1507544234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1537502919",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Kencom",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8249899,
+          -1.2856398
+        ]
+      },
+      "id": "node/1537502919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1717357041",
+        "amenity": "bus_station",
+        "name": "Kwa Kairu Stage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9670955,
+          -1.1420837
+        ]
+      },
+      "id": "node/1717357041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1719266669",
+        "amenity": "bus_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9593466,
+          -1.1475709
+        ]
+      },
+      "id": "node/1719266669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1719355502",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Lopha Travels",
+        "operator": "Ruiru",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8250001,
+          -1.282815
+        ]
+      },
+      "id": "node/1719355502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1763884021",
+        "amenity": "bus_station",
+        "name": "Valley Arcade Bus Stop",
+        "place": "locality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7703418,
+          -1.2899397
+        ]
+      },
+      "id": "node/1763884021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2306253587",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "ROUTE 46",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8784714,
+          -1.2554157
+        ]
+      },
+      "id": "node/2306253587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2318438894",
+        "amenity": "bus_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8672966,
+          -1.2620049
+        ]
+      },
+      "id": "node/2318438894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2318438895",
+        "amenity": "bus_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8659865,
+          -1.2624728
+        ]
+      },
+      "id": "node/2318438895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2318438897",
+        "amenity": "bus_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8615051,
+          -1.2638116
+        ]
+      },
+      "id": "node/2318438897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2318438899",
+        "amenity": "bus_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8589767,
+          -1.2657279
+        ]
+      },
+      "id": "node/2318438899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2318438900",
+        "amenity": "bus_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8575308,
+          -1.2657881
+        ]
+      },
+      "id": "node/2318438900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2318438901",
+        "amenity": "bus_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8576449,
+          -1.2656929
+        ]
+      },
+      "id": "node/2318438901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2324284695",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Route 44/45",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8815778,
+          -1.2277971
+        ]
+      },
+      "id": "node/2324284695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2324284696",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Route 44/45",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8677891,
+          -1.243508
+        ]
+      },
+      "id": "node/2324284696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3731530327",
+        "addr:city": "Juja",
+        "addr:street": "Thika Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Juja Stage",
+        "opening_hours": "08:00-16:00",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.01523,
+          -1.1066294
+        ]
+      },
+      "id": "node/3731530327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4324883798",
+        "amenity": "bus_station",
+        "name": "Kikuyu Bus Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6647886,
+          -1.2426167
+        ]
+      },
+      "id": "node/4324883798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4406623089",
+        "addr:street": "Accra Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "check_date": "2023-05-11",
+        "name": "Modern Coast Express",
+        "name:de": "Modern Coast Express",
+        "name:en": "Modern Coast Express",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8279004,
+          -1.2817825
+        ]
+      },
+      "id": "node/4406623089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4487469611",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Kabwagi",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7183487,
+          -1.3161193
+        ]
+      },
+      "id": "node/4487469611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4548730892",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "check_date": "2023-04-03",
+        "name": "Simba Booking Office",
+        "name:en": "Simba Booking Office",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8286172,
+          -1.2833024
+        ]
+      },
+      "id": "node/4548730892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4740212721",
+        "amenity": "bus_station",
+        "name": "Masimba",
+        "name:en": "Masimba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9080607,
+          -1.2781146
+        ]
+      },
+      "id": "node/4740212721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4740212821",
+        "amenity": "bus_station",
+        "name": "Tushauriane",
+        "name:sw": "Tushauriane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9160582,
+          -1.2665151
+        ]
+      },
+      "id": "node/4740212821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4740212822",
+        "amenity": "bus_station",
+        "name": "Kayole 1",
+        "name:en": "Kayole 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9195656,
+          -1.262027
+        ]
+      },
+      "id": "node/4740212822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4740212823",
+        "amenity": "bus_station",
+        "name": "Step 1",
+        "name:en": "Step 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9166598,
+          -1.264978
+        ]
+      },
+      "id": "node/4740212823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4740212824",
+        "amenity": "bus_station",
+        "name": "Kanisani",
+        "name:en": "Kanisani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9130754,
+          -1.270687
+        ]
+      },
+      "id": "node/4740212824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4953837921",
+        "amenity": "bus_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8513509,
+          -1.266285
+        ]
+      },
+      "id": "node/4953837921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5013388221",
+        "addr:street": "City Hall Way",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "46 Bus station",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8248346,
+          -1.2857103
+        ]
+      },
+      "id": "node/5013388221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5178217727",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Narokline",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8309855,
+          -1.2823691
+        ]
+      },
+      "id": "node/5178217727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5178217728",
+        "addr:city": "Nairobi",
+        "addr:street": "Latema Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Lopha Travels",
+        "operator": "107 Ndenderu/Karura/Ruaka",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8254291,
+          -1.2821372
+        ]
+      },
+      "id": "node/5178217728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5333186922",
+        "addr:street": "Mfangano Street",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Kitale shuttles Co.",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8288228,
+          -1.288245
+        ]
+      },
+      "id": "node/5333186922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5336131021",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Arusha shuttle",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8187987,
+          -1.2810246
+        ]
+      },
+      "id": "node/5336131021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5440156983",
+        "addr:city": "Nairobi",
+        "addr:street": "Lower Kabete Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Westlands/Ngara/Town Stage",
+        "network": "WALOKANA",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8036087,
+          -1.2614964
+        ]
+      },
+      "id": "node/5440156983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5525515329",
+        "addr:street": "Ngumba Terminal",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Ngumba Bus Terminal",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8844095,
+          -1.2337507
+        ]
+      },
+      "id": "node/5525515329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5534129324",
+        "amenity": "bus_station",
+        "name": "Mihango stage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9232,
+          -1.2653
+        ]
+      },
+      "id": "node/5534129324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552396275",
+        "addr:city": "Nairobi",
+        "addr:street": "Tom Mboya Street",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Kinoo/Kikuyu",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8250603,
+          -1.2836672
+        ]
+      },
+      "id": "node/5552396275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552396276",
+        "addr:city": "Nairobi",
+        "addr:street": "Tom Mboya Street",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Eastleigh/Ngara/Mlango",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8252379,
+          -1.2838156
+        ]
+      },
+      "id": "node/5552396276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552396277",
+        "addr:city": "Nairobi",
+        "addr:street": "Tom Mboya Street",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Unified Poa",
+        "network": "Githurai 45",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8245566,
+          -1.2832786
+        ]
+      },
+      "id": "node/5552396277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552396278",
+        "addr:city": "Nairobi",
+        "addr:street": "Tom Mboya Street",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Tripple (S) Services Kiambu/Kirigiti",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.825217,
+          -1.2836045
+        ]
+      },
+      "id": "node/5552396278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552396279",
+        "addr:city": "Nairobi",
+        "addr:street": "Tom Mboya Street",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Bahimia SACCO",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8252985,
+          -1.2836714
+        ]
+      },
+      "id": "node/5552396279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552396280",
+        "addr:city": "Nairobi",
+        "addr:street": "Tom Mboya Street",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Hannover Trans",
+        "network": "Kasaraini/Mwiki",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8243037,
+          -1.2830404
+        ]
+      },
+      "id": "node/5552396280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552396281",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "MSL Operators",
+        "network": "Kasaraini/Mwiki",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8241428,
+          -1.2829151
+        ]
+      },
+      "id": "node/5552396281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552396282",
+        "addr:city": "Nairobi",
+        "addr:street": "Tom Mboya Street",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Eastleigh Commuter Services",
+        "network": "Eastleigh 9",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8239066,
+          -1.2825348
+        ]
+      },
+      "id": "node/5552396282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552396283",
+        "addr:city": "Nairobi",
+        "addr:street": "Tom Mboya Street",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Manchester Travellers",
+        "network": "Huruma 46",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8239463,
+          -1.2825766
+        ]
+      },
+      "id": "node/5552396283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552396284",
+        "addr:city": "Nairobi",
+        "addr:street": "Lagos Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Lopha Travels",
+        "network": "GachIe/UNEP",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8236788,
+          -1.2819728
+        ]
+      },
+      "id": "node/5552396284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552396285",
+        "addr:city": "Nairobi",
+        "addr:street": "Timboroa Lane",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "check_date": "2023-05-11",
+        "name": "Githurai Zimmerman",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8246945,
+          -1.2828524
+        ]
+      },
+      "id": "node/5552396285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552396286",
+        "addr:city": "Nairobi",
+        "addr:street": "Latema Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Killeton Sacco",
+        "network": "48/49 Lavington Kileleshwa",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8251438,
+          -1.282562
+        ]
+      },
+      "id": "node/5552396286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552396287",
+        "addr:city": "Nairobi",
+        "addr:street": "Tom Mboya Street",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Sony Classic",
+        "network": "Kiambu",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8253507,
+          -1.2837215
+        ]
+      },
+      "id": "node/5552396287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552396288",
+        "addr:city": "Nairobi",
+        "addr:street": "Tom Mboya Street",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Kaka Travellers Sacco",
+        "network": "Kiambu",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8254218,
+          -1.2837738
+        ]
+      },
+      "id": "node/5552396288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552396289",
+        "addr:city": "Nairobi",
+        "addr:street": "Tom Mboya Street",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "City Bus",
+        "network": "KInoo/Kikuyu/Regen",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8256224,
+          -1.2839576
+        ]
+      },
+      "id": "node/5552396289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552396290",
+        "addr:city": "Nairobi",
+        "addr:street": "Accra Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Embassava SACCO",
+        "network": "Embakasi/Savannah",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8262243,
+          -1.2841561
+        ]
+      },
+      "id": "node/5552396290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552396291",
+        "addr:city": "Nairobi",
+        "addr:street": "Accra Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Buruburu SACCO",
+        "network": "Buruburu 58",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8261762,
+          -1.2844528
+        ]
+      },
+      "id": "node/5552396291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552396296",
+        "addr:city": "Nairobi",
+        "addr:street": "Tom Mboya Street",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Supermetro",
+        "network": "Kikuyu/Kinoo",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8253424,
+          -1.2840914
+        ]
+      },
+      "id": "node/5552396296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552396297",
+        "addr:city": "Nairobi",
+        "addr:street": "Tom Mboya Street",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Supermetro",
+        "network": "Ruiru",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8252374,
+          -1.2842559
+        ]
+      },
+      "id": "node/5552396297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552492022",
+        "addr:city": "Nairobi",
+        "addr:street": "Tom Mboya Street",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "check_date": "2023-05-11",
+        "name": "Eastleigh",
+        "network": "Mlango/Ngara",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8230012,
+          -1.2819825
+        ]
+      },
+      "id": "node/5552492022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552492023",
+        "addr:city": "Nairobi",
+        "addr:street": "Tom Mboya Street",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "check_date": "2023-05-11",
+        "name": "Westlands/Graffins",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8224442,
+          -1.2816655
+        ]
+      },
+      "id": "node/5552492023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552492024",
+        "addr:city": "Nairobi",
+        "addr:street": "Government Lane",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Zuri Genesis",
+        "network": "Zimmerman 44",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8236761,
+          -1.2829702
+        ]
+      },
+      "id": "node/5552492024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552492025",
+        "addr:city": "Nairobi",
+        "addr:street": "Lagos Road;Firestation Lane",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Latema Sacco;Nawas Hotel",
+        "network": "Westlands/Kangemi",
+        "public_transport": "station",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8252616,
+          -1.2819906
+        ]
+      },
+      "id": "node/5552492025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552492026",
+        "addr:city": "Nairobi",
+        "addr:street": "Lagos Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "check_date": "2023-05-11",
+        "name": "Star Bus Sacco",
+        "network": "Westlands/Kangemi",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8253104,
+          -1.2821166
+        ]
+      },
+      "id": "node/5552492026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5555074078",
+        "addr:city": "Nairobi",
+        "addr:street": "Tom Mboya Street",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "ROG SACCO",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8271666,
+          -1.2867396
+        ]
+      },
+      "id": "node/5555074078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5555074090",
+        "addr:city": "Nairobi",
+        "addr:street": "Moi Avenue",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Karen/Hardy",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8257626,
+          -1.2860984
+        ]
+      },
+      "id": "node/5555074090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5636724234",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Kwa Chief",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9188478,
+          -1.2715306
+        ]
+      },
+      "id": "node/5636724234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5636724236",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Sabasaba",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9181408,
+          -1.2729997
+        ]
+      },
+      "id": "node/5636724236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5636724257",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Soweto",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9148156,
+          -1.2814702
+        ]
+      },
+      "id": "node/5636724257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5636724258",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Kwa D.O",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9105309,
+          -1.2746767
+        ]
+      },
+      "id": "node/5636724258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5636724259",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Nyando",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9158548,
+          -1.2773394
+        ]
+      },
+      "id": "node/5636724259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5636724262",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Kayole Junction Ez",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9227925,
+          -1.2572358
+        ]
+      },
+      "id": "node/5636724262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5654059640",
+        "addr:housenumber": "4",
+        "addr:street": "Tsavo Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "check_date": "2023-05-11",
+        "name": "Prestige Shuttle",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8255895,
+          -1.2827624
+        ]
+      },
+      "id": "node/5654059640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5776763653",
+        "amenity": "bus_station",
+        "name": "Chiromo Bus Stage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8070935,
+          -1.270893
+        ]
+      },
+      "id": "node/5776763653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5820858254",
+        "addr:street": "River Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Tahmeed Booking Office",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8270832,
+          -1.2821787
+        ]
+      },
+      "id": "node/5820858254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5832891486",
+        "addr:street": "River Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "check_date": "2023-05-11",
+        "name": "Modern Coast Booking Office",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8237941,
+          -1.281325
+        ]
+      },
+      "id": "node/5832891486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5950738186",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "check_date": "2023-05-11",
+        "name": "Mololine shuttle",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8257614,
+          -1.2820189
+        ]
+      },
+      "id": "node/5950738186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6057123537",
+        "addr:city": "Nairobi",
+        "addr:street": "Limuru Road",
+        "alt_name": "Village Market Stage",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Village Market Bus Stop",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.803974,
+          -1.2297555
+        ]
+      },
+      "id": "node/6057123537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6199038657",
+        "addr:city": "Thika",
+        "addr:street": "Thika Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Kenyatta Road Stage",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0034096,
+          -1.1241509
+        ]
+      },
+      "id": "node/6199038657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6208217427",
+        "addr:city": "Nairobi",
+        "addr:street": "Mombasa Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Cabanas Bus Stop",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.893227,
+          -1.3355893
+        ]
+      },
+      "id": "node/6208217427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6208217648",
+        "addr:city": "Nairobi",
+        "addr:street": "Mombasa Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Airport Junction",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9022718,
+          -1.3465226
+        ]
+      },
+      "id": "node/6208217648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6210275899",
+        "addr:city": "Athi River",
+        "addr:street": "Mombasa Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Namanga Junction",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9726134,
+          -1.4356559
+        ]
+      },
+      "id": "node/6210275899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6216196498",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Kephis Stage",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.691001,
+          -1.3275666
+        ]
+      },
+      "id": "node/6216196498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6216321645",
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Kcb Community",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6871753,
+          -1.3296847
+        ]
+      },
+      "id": "node/6216321645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6218304916",
+        "addr:city": "Matasia",
+        "addr:street": "Forest Line Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Matasia",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6818094,
+          -1.390897
+        ]
+      },
+      "id": "node/6218304916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6251534645",
+        "addr:city": "Nairobi",
+        "addr:street": "Thika Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Kenyatta University Stage Bus Bay",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9392585,
+          -1.1796721
+        ]
+      },
+      "id": "node/6251534645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6802524585",
+        "addr:street": "Melawa Road",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "email": "annuahmed940@gmail.com",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8509512,
+          -1.2672317
+        ]
+      },
+      "id": "node/6802524585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7234655285",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Dreamline bus",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8273937,
+          -1.2817976
+        ]
+      },
+      "id": "node/7234655285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7987341021",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Corner Station",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9947192,
+          -1.1853029
+        ]
+      },
+      "id": "node/7987341021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050414663",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591182789306.jpg",
+        "is_in:village": "Stage Two",
+        "name": "Stage Two",
+        "operational_status": "operational",
+        "operator:description": "ngo",
+        "operator:type": "ngo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7544333,
+          -1.284965
+        ]
+      },
+      "id": "node/8050414663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050414664",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591276653395.JPG",
+        "is_in:village": "Riruta",
+        "name": "Riruta Stage",
+        "operational_status": "operational",
+        "operator:description": "county_government",
+        "operator:type": "county_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7525567,
+          -1.2866867
+        ]
+      },
+      "id": "node/8050414664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050414665",
+        "amenity": "bus_station",
+        "condition": "good",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591171562554.jpg",
+        "is_in:village": "Riruta",
+        "name": "Riruta Stage",
+        "operational_status": "operational",
+        "operator:description": "county_government",
+        "operator:type": "county_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.73959,
+          -1.2859133
+        ]
+      },
+      "id": "node/8050414665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050414666",
+        "amenity": "bus_station",
+        "condition": "good",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591169984053.jpg",
+        "is_in:village": "Riruta",
+        "name": "Mayas Stage",
+        "operational_status": "operational",
+        "operator:description": "county_government",
+        "operator:type": "county_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7412011,
+          -1.2856697
+        ]
+      },
+      "id": "node/8050414666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050414667",
+        "amenity": "bus_station",
+        "condition": "good",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591352918892.jpg",
+        "is_in:village": "Muslim",
+        "name": "Raila Estate",
+        "operational_status": "operational",
+        "operator:description": "county_government",
+        "operator:type": "county_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7408783,
+          -1.28103
+        ]
+      },
+      "id": "node/8050414667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050414668",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591340622217.jpg",
+        "is_in:village": "Muslim",
+        "name": "Mayas",
+        "operational_status": "operational",
+        "operator:description": "Mayas",
+        "operator:type": "cbo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7422111,
+          -1.2866497
+        ]
+      },
+      "id": "node/8050414668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050414669",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "is_in:village": "Muslim",
+        "name": "Mtimoja",
+        "operational_status": "operational",
+        "operator:description": "Mtimoja",
+        "operator:type": "cbo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7529631,
+          -1.2838456
+        ]
+      },
+      "id": "node/8050414669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050414670",
+        "amenity": "bus_station",
+        "condition": "good",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591180512774.jpg",
+        "is_in:village": "Muslim",
+        "name": "Muslim Stage",
+        "operational_status": "operational",
+        "operator:description": "county_government",
+        "operator:type": "county_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7439917,
+          -1.2800883
+        ]
+      },
+      "id": "node/8050414670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050414671",
+        "amenity": "bus_station",
+        "condition": "good",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591168724465.jpg",
+        "is_in:village": "Muslim",
+        "name": "46 Stage",
+        "operational_status": "operational",
+        "operator:description": "county_government",
+        "operator:type": "county_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7424767,
+          -1.2837583
+        ]
+      },
+      "id": "node/8050414671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050414672",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591353807805.jpg",
+        "is_in:village": "Kabiro",
+        "name": "Soko Mjinga",
+        "operational_status": "operational",
+        "operator:description": "none",
+        "operator:type": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7471417,
+          -1.282955
+        ]
+      },
+      "id": "node/8050414672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050414674",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591352276964.jpg",
+        "is_in:village": "Kabiro",
+        "name": "Kawangware Sokoni",
+        "operational_status": "operational",
+        "operator:description": "none",
+        "operator:type": "none",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7458261,
+          -1.2864744
+        ]
+      },
+      "id": "node/8050414674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050414675",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591349708814.jpg",
+        "is_in:village": "Kabiro",
+        "name": "St Francis",
+        "operational_status": "operational",
+        "operator:description": "none",
+        "operator:type": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.753375,
+          -1.2871233
+        ]
+      },
+      "id": "node/8050414675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050414676",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591347664440.jpg",
+        "is_in:village": "Kabiro",
+        "name": "Stage 2",
+        "operational_status": "operational",
+        "operator:description": "county_government",
+        "operator:type": "county_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7523333,
+          -1.2823267
+        ]
+      },
+      "id": "node/8050414676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050414677",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591340506505.jpg",
+        "is_in:village": "Kabiro",
+        "name": "Kabiro",
+        "operational_status": "operational",
+        "operator:description": "Kabiro",
+        "operator:type": "cbo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7462581,
+          -1.2844435
+        ]
+      },
+      "id": "node/8050414677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050414678",
+        "amenity": "bus_station",
+        "condition": "good",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591268226225.jpg",
+        "is_in:village": "Kabiro",
+        "name": "Bada Kabiro",
+        "operational_status": "operational",
+        "operator:description": "Kabiro",
+        "operator:type": "cbo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.745186,
+          -1.2857447
+        ]
+      },
+      "id": "node/8050414678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050414679",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591264386493.jpg",
+        "is_in:village": "Kabiro",
+        "name": "Coast",
+        "operational_status": "operational",
+        "operator:description": "Kabiro",
+        "operator:type": "cbo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.747486,
+          -1.2871722
+        ]
+      },
+      "id": "node/8050414679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050414680",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591263578571.jpg",
+        "is_in:village": "Kabiro",
+        "name": "Kabiro",
+        "operational_status": "non_operational",
+        "operator:description": "Kabiro",
+        "operator:type": "cbo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7486793,
+          -1.287524
+        ]
+      },
+      "id": "node/8050414680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050414681",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591255885924.jpg",
+        "is_in:village": "Kabiro",
+        "name": "Congo Kumi",
+        "operational_status": "operational",
+        "operator:description": "county_government",
+        "operator:type": "county_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7531121,
+          -1.2890004
+        ]
+      },
+      "id": "node/8050414681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050414682",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591255744860.jpg",
+        "is_in:village": "Kabiro",
+        "name": "Congo",
+        "operational_status": "operational",
+        "operator:description": "county_government",
+        "operator:type": "county_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7531288,
+          -1.288979
+        ]
+      },
+      "id": "node/8050414682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050414683",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591255511730.jpg",
+        "is_in:village": "Kabiro",
+        "name": "Congo",
+        "operational_status": "operational",
+        "operator:description": "county_government",
+        "operator:type": "county_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7531656,
+          -1.2890214
+        ]
+      },
+      "id": "node/8050414683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050414684",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591255506050.jpg",
+        "is_in:village": "Kabiro",
+        "name": "Congo",
+        "operational_status": "operational",
+        "operator:description": "county_government",
+        "operator:type": "county_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7529233,
+          -1.28922
+        ]
+      },
+      "id": "node/8050414684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050437485",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591253829603.jpg",
+        "is_in:village": "Kabiro",
+        "name": "Coast",
+        "operational_status": "operational",
+        "operator:description": "private",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7498617,
+          -1.2879967
+        ]
+      },
+      "id": "node/8050437485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050437486",
+        "amenity": "bus_station",
+        "check_date": "2023-05-02",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591250816078.jpg",
+        "is_in:village": "Kabiro",
+        "name": "Msalaba",
+        "operational_status": "operational",
+        "operator:description": "none",
+        "operator:type": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.748675,
+          -1.287575
+        ]
+      },
+      "id": "node/8050437486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050437487",
+        "amenity": "bus_station",
+        "check_date": "2023-04-26",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591360288583.jpg",
+        "is_in:village": "Gatina",
+        "name": "Legomaria",
+        "operational_status": "operational",
+        "operator:description": "county_government",
+        "operator:type": "county_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7569723,
+          -1.2796728
+        ]
+      },
+      "id": "node/8050437487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050437488",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591358202168.jpg",
+        "is_in:village": "Gatina",
+        "name": "Prime",
+        "operational_status": "operational",
+        "operator:description": "none",
+        "operator:type": "none",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7592644,
+          -1.2764627
+        ]
+      },
+      "id": "node/8050437488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050437489",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591358016206.jpg",
+        "is_in:village": "Gatina",
+        "name": "Salim",
+        "operational_status": "operational",
+        "operator:description": "none",
+        "operator:type": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7593126,
+          -1.2765174
+        ]
+      },
+      "id": "node/8050437489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050437490",
+        "amenity": "bus_station",
+        "check_date": "2023-04-26",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591351601314.jpg",
+        "is_in:village": "Gatina",
+        "name": "Stage 2",
+        "operational_status": "operational",
+        "operator:description": "none",
+        "operator:type": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7593167,
+          -1.2764343
+        ]
+      },
+      "id": "node/8050437490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050437491",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591344093946.jpg",
+        "is_in:village": "Gatina",
+        "name": "Salim rd",
+        "operational_status": "operational",
+        "operator:description": "none",
+        "operator:type": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7541831,
+          -1.2814137
+        ]
+      },
+      "id": "node/8050437491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050437492",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591338545647.jpg",
+        "is_in:village": "Gatina",
+        "name": "Fae",
+        "operational_status": "operational",
+        "operator:description": "none",
+        "operator:type": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7508165,
+          -1.2771547
+        ]
+      },
+      "id": "node/8050437492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050437493",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591260192798.jpg",
+        "is_in:village": "Gatina",
+        "name": "Checkpoint",
+        "operational_status": "operational",
+        "operator:description": "county_government",
+        "operator:type": "county_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7552591,
+          -1.2764191
+        ]
+      },
+      "id": "node/8050437493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050437494",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591187495886.jpg",
+        "is_in:village": "Gatina",
+        "name": "Stage",
+        "operational_status": "operational",
+        "operator:description": "private",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7567872,
+          -1.2756068
+        ]
+      },
+      "id": "node/8050437494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050437497",
+        "amenity": "bus_station",
+        "condition": "dilapidated",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591263625846.jpg",
+        "is_in:village": "Gatina",
+        "name": "Check Point",
+        "operational_status": "operational",
+        "operator:description": "none",
+        "operator:type": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7587543,
+          -1.2745934
+        ]
+      },
+      "id": "node/8050437497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050437498",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591340564482.jpg",
+        "is_in:village": "Congo",
+        "name": "Matatu",
+        "operational_status": "operational",
+        "operator:description": "KBS Palsmat city shuttle Hiram sacco",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7528,
+          -1.289265
+        ]
+      },
+      "id": "node/8050437498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050437499",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591339368108.jpg",
+        "is_in:village": "Congo",
+        "name": "Congo Stage",
+        "operational_status": "operational",
+        "operator:description": "county_government",
+        "operator:type": "county_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7528933,
+          -1.2893667
+        ]
+      },
+      "id": "node/8050437499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050437500",
+        "amenity": "bus_station",
+        "check_date": "2023-05-02",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591255410136.jpg",
+        "is_in:village": "Congo",
+        "name": "Stage Two",
+        "operational_status": "operational",
+        "operator:description": "county_government",
+        "operator:type": "county_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.75662,
+          -1.28173
+        ]
+      },
+      "id": "node/8050437500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050437501",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591164556636.jpg",
+        "is_in:village": "Congo",
+        "name": "Congo Stage",
+        "operational_status": "operational",
+        "operator:description": "none",
+        "operator:type": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7540233,
+          -1.2893167
+        ]
+      },
+      "id": "node/8050437501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050437502",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591339699911.JPG",
+        "is_in:village": "Coast",
+        "name": "Coast Stage",
+        "operational_status": "operational",
+        "operator:description": "county_government",
+        "operator:type": "county_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7468583,
+          -1.290005
+        ]
+      },
+      "id": "node/8050437502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050437503",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591336921793.jpg",
+        "is_in:village": "Coast",
+        "name": "County Government",
+        "operational_status": "operational",
+        "operator:description": "county_government",
+        "operator:type": "county_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7506733,
+          -1.2885417
+        ]
+      },
+      "id": "node/8050437503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050437504",
+        "amenity": "bus_station",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591250281514.jpg",
+        "is_in:village": "Coast",
+        "name": "Coast",
+        "operational_status": "operational",
+        "operator:description": "county_government",
+        "operator:type": "county_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7500917,
+          -1.2895267
+        ]
+      },
+      "id": "node/8050437504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050437506",
+        "amenity": "bus_station",
+        "condition": "good",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591249643351.jpg",
+        "is_in:village": "Coast",
+        "name": "Mkokoteni",
+        "operational_status": "operational",
+        "operator:description": "private",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7501983,
+          -1.28891
+        ]
+      },
+      "id": "node/8050437506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050437507",
+        "amenity": "bus_station",
+        "check_date": "2023-05-02",
+        "condition": "fair",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591347993160.jpg",
+        "is_in:village": "Coast",
+        "name": "Msalaba Bus Stage",
+        "operational_status": "operational",
+        "operator:description": "county_government",
+        "operator:type": "county_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7487267,
+          -1.2874717
+        ]
+      },
+      "id": "node/8050437507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050437508",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "condition": "good",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1591249502272.jpg",
+        "is_in:village": "56",
+        "name": "56 Stage",
+        "operational_status": "operational",
+        "operator:description": "Obunde",
+        "operator:type": "private",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7506917,
+          -1.2782667
+        ]
+      },
+      "id": "node/8050437508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9800929009",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Taj Mall",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8991616,
+          -1.3236703
+        ]
+      },
+      "id": "node/9800929009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10772600705",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Naeka Sacco Bus to Oloitoktok 800ksh 2023",
+        "name:es": "Naeka Sacco Bus a Oloitoktok 800ksh 2023",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8306079,
+          -1.2847314
+        ]
+      },
+      "id": "node/10772600705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10844129451",
+        "addr:city": "Banana",
+        "addr:street": "Limuru Road",
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Banana Terminus",
+        "public_transport": "platform",
+        "ref": "0110BAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.758608,
+          -1.173875
+        ]
+      },
+      "id": "node/10844129451"
+    }
+  ]
+}
