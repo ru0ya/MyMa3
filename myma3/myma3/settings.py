@@ -40,13 +40,17 @@ INSTALLED_APPS = [
     'django.contrib.gis',
     'rest_framework',
     'rest_framework_gis',
+    'corsheaders',
     'leaflet',
+    'drf_spectacular',
     'mymatwana',
 ]
 
 MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
@@ -54,6 +58,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
+CORS_ALLOW_ALL_ORIGINS = True
 ROOT_URLCONF = 'myma3.urls'
 
 TEMPLATES = [
@@ -89,6 +94,10 @@ DATABASES = {
     }
 }
 
+
+REST_FRAMEWORK = {
+        'DEFAULT_SCHEMA_CLASS': 'drf_spectacular.openapi.AutoSchema',
+        }
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
@@ -130,3 +139,18 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+LEAFLET_CONFIG = {
+        "DEFAULT_CENTER": (-1.286, 36.817),
+        "DEFAULT_ZOOM": 11,
+        "MIN_ZOOM": 3,
+        "MAX_ZOOM": 20,
+        "SCALE": "both",
+        "ATTRIBUTION_PREFIX": "Matatu Stages Map",
+        }
+
+SPECTACULAR_SETTINGS = {
+        "TITLE": "Matwana",
+        "DESCRIPTION": "API providing matatu pickup/drop off points",
+        "VERSION": "1.0.0",
+        }

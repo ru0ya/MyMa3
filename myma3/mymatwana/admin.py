@@ -1,3 +1,11 @@
 from django.contrib import admin
+from leaflet.admin import LeafletGeoAdmin
 
-# Register your models here.
+from .models import Matwana
+
+
+class StageAdmin(LeafletGeoAdmin):
+    list_display = ("stop_name", "route_nams",)
+
+
+admin.site.register(Matwana, StageAdmin)
