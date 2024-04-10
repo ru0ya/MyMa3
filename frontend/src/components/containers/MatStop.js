@@ -36,7 +36,7 @@ function MatStop() {
 		//return <div>Loading...</div>;
 	} else {
 		return (
-			<div>
+			<div id="map">
 				<SearchBar onChange={handleSearch} />
 				<MapContainer
 					center={[-1.483, 36.8774]}
