@@ -58,7 +58,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-CORS_ALLOW_ALL_ORIGINS = True
+CORS_ORIGIN_ALLOW_ALL = True
 ROOT_URLCONF = 'myma3.urls'
 
 TEMPLATES = [
@@ -98,6 +98,8 @@ DATABASES = {
 REST_FRAMEWORK = {
         'DEFAULT_SCHEMA_CLASS': 'drf_spectacular.openapi.AutoSchema',
         }
+
+SECURE_SSL_REDIRECT = False
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
@@ -154,3 +156,12 @@ SPECTACULAR_SETTINGS = {
         "DESCRIPTION": "API providing matatu pickup/drop off points",
         "VERSION": "1.0.0",
         }
+
+HOST_SCHEME = "http://"
+SECURE_PROXY_SSL_HEADER = None
+SECURE_SSL_REDIRECT = False
+SESSION_COOKIE_SECURE = False
+CSRF_COOKIE_SECURE = False
+SECURE_HSTS_SECONDS = None
+SECURE_HSTS_INCLUDE_SUBDOMAINS = False
+SECURE_FRAME_DENY = False
