@@ -2,7 +2,18 @@ import React, { useState } from "react";
 
 
 function SearchBar({ onChange }) {
-	const BarStyle = {width:"20rem", background:"#F0F0F0", border:"none", padding:"0.5rem"};
+	const BarStyle = {
+		width:"20rem",
+		background:"#F0F0F0",
+		border:"none",
+		padding:"0.5rem",
+		display: "flex",
+		"justify-content": "center",
+		"align-items": "center",
+		"border-radius": "10",
+		position: "absolute", left: "50%", top: "50%",
+		transform: "translate(-50%, -50%)"
+	};
 
 	const [input, setInput] = useState("");
 
@@ -17,7 +28,7 @@ function SearchBar({ onChange }) {
 			backgroundImage: `url("https://images.unsplash.com/photo-1543245883-b631737145f0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")`,
 			backgroundRepeat: 'no-repeat',
 			height: '100vh',
-			width: '800px'
+			width: '100vw',
 		}}>
 			<input
 				style={BarStyle}

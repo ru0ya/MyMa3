@@ -6,10 +6,8 @@ function Header() {
 	return (
 		<header className="header">
 			<nav>
-				<ul>
-					<li><a href="/">Home</a></li>
-					<li><a href="map">Map</a></li>
-				</ul>
+				<button href="/">Home</button>
+				<button href="map">Map</button>
 			</nav>
 		</header>
 	);

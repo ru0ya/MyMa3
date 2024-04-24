@@ -1,8 +1,10 @@
 .header {
-	background-color: #7cc0d8;
+	background-color: #0b2d39;
 	padding: 10px 20px;
 	color: #e9f5f9;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+	width: 10ovw;
+	height: 10vh;
 }

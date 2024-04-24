@@ -18,7 +18,7 @@ function MatStop() {
 					.then(
 						(result) => {
 							setIsLoaded(true);
-							setItems(result.data);
+							setItems([result.data]);
 						})
 						.catch((error) => {
 							setIsLoaded(true);
@@ -32,7 +32,6 @@ function MatStop() {
 
 	const handleSearch = (query) => {
 		setSearchQuery(query);
-		console.log(items);
 	};
 
 	if (error) {
@@ -49,7 +48,7 @@ function MatStop() {
 					<MapContainer
 						center={[-1.483, 36.8774]}
 						zoom={15}
-						style={{ height: "400px", width: "800px" }}
+						style={{ height: "100vh", width: "100vw" }}
 					>
 						<TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
 						{items.map((item) => (
