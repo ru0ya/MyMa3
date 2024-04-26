@@ -17,8 +17,9 @@ function MatStop() {
 				axios.get(`http://localhost:8000/matwana?query=${searchQuery}`)
 					.then(
 						(result) => {
+							console.log(result.items);
 							setIsLoaded(true);
-							setItems([result.data]);
+							setItems([result]);
 						})
 						.catch((error) => {
 							setIsLoaded(true);
@@ -31,36 +32,38 @@ function MatStop() {
 	}, [searchQuery]);
 
 	const handleSearch = (query) => {
+		setIsLoaded(false);
 		setSearchQuery(query);
 	};
 
 	if (error) {
 		return <div>Error: {error.message}</div>;
-	/*
-	else if (!isLoaded) {
-		return <div>Loading...</div>;
-		*/
 	} else {
 		return (
 			<>
 				<SearchBar onChange={handleSearch} />
-				<div id="map">
-					<MapContainer
-						center={[-1.483, 36.8774]}
-						zoom={15}
-						style={{ height: "100vh", width: "100vw" }}
-					>
-						<TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-						{items.map((item) => (
-							<Marker
-								position={[item.stop_lat, item.stop_lon]}
-								key={item.stop_id}
-							>
-								<Popup>{item.stop_name}</Popup>
-							</Marker>
-						))}
-					</MapContainer>
-				</div>
+				{isLoaded ? (
+					<div id="map">
+						<MapContainer
+							center={[-1.483, 36.8774]}
+							zoom={15}
+							style={{ height: "100vh", width: "100vw" }}
+						>
+							<TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
+							console.log(items);
+							{items.map((item) => (
+								<Marker
+									position={[item.stop_lat, item.stop_lon]}
+									key={item.stop_id}
+								>
+									<Popup>{item.stop_name}</Popup>
+								</Marker>
+							))}
+						</MapContainer>
+					</div>
+				) : (
+					<div>Loading...</div>
+				)}
 			</>
 		);
 	}
