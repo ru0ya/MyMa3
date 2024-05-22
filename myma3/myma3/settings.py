@@ -86,11 +86,11 @@ WSGI_APPLICATION = 'myma3.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
-        'NAME': 'matatu',
-        'USER': 'psv',
-        'PASSWORD': 'donda',
-        'HOST': 'localhost',
-        'PORT': '5432',
+        'NAME': [],
+        'USER': [],
+        'PASSWORD': [],
+        'HOST': [],
+        'PORT': [],
     }
 }
 
