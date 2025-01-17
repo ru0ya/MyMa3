@@ -125,12 +125,12 @@ We welcome contributions! If you'd like to contribute to this project, please fo
 ---
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ---
 
 ## Contact
-For questions or feedback, please reach out to [your-email@example.com] or open an issue on GitHub.
+For questions or feedback, please reach out to mwangiruoya@gmail.com or open an issue on GitHub.
 
 ---
 
